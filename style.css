@@ -1,0 +1,103 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url('file:///C:/Users/B2C%20Network/Pictures/Screenshots/bg.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    margin: 20px;
+    line-height: 30px;
+    padding-bottom:15px;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    background: #e33a3a;
+    padding: 15px 0px 15px 0px;
+    border-radius: 10px;
+    margin: 17px 15px 40px 46px;
+}
+
+
+#navbar {
+    display: flex;
+    align-items: center;
+    top: -20px;
+    position: relative;
+}
+
+div#left {
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+div.right {
+    border-radius: 20px;
+    width: 100%;
+    margin-right: 5px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.list.list-item {
+    padding: 20px;
+}
+
+a {
+    font-weight: bold;
+    display: block;
+    padding: 2px 37px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+a:hover {
+    color: rgb(232, 92, 42)
+}
+
+.container {
+    padding: 46px;
+    margin: 12px auto;
+    max-width: 69%;
+    background-color: white;
+    border-radius: 12px;
+}
+
+div.teachers {
+    background-color: #e5d8d3;
+}
+
+div.goal {
+    background-color: #a9bcf3;
+    border-radius: 10px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+footer {
+    background-color: #660303;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
