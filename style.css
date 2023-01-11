@@ -1,11 +1,11 @@
 body {
-    background-color: #000a4e;
+/*     background-color: #000a4e; */
     margin: 0px;
     padding: 0px;
-/*     background: url('file:///C:/Users/B2C%20Network/Pictures/Screenshots/bg.webp'); 
+    background: url('bg.webp'); 
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: 100% 100%; */
+    background-size: 100% 100%;
 }
 
 p {
